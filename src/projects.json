@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Memo App",
+      "description": "An Application that resembles the notes application on your mobile that saves text, audio and image notes",
+      "technologies": ["Python", "Reflex"],
+      "link": "https://memo_app-aqua-moon.reflex.run/",
+      "github": "https://github.com/SarvariHarshitha/memo_app"
+    },
+    {
+      "title": "Car Rental API",
+      "description": "An API for car rental system",
+      "technologies": ["JavaScript", "Node.js", "Express", "PostgreSQL"],
+      "link": "car-rental-api-e2xf.onrender.com",
+      "github": "https://car-rental-api-e2xf.onrender.com/"
+    },
+    {
+      "title": "Alzheimers Disease Prediction",
+      "description": "An application for the detection of all stages of Alzheimers disease.",
+      "technologies": ["Deep Learning", "Streamlit", "Python", "CNN"],
+      "link": "https://alzheimeirs-disease-prediction-dmmcnjntafpzwkz5ntshss.streamlit.app/",
+      "github": "https://github.com/SarvariHarshitha/Alzheimeirs-disease-prediction"
+    }
+  ]
