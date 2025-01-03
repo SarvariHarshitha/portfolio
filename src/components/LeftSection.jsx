@@ -6,10 +6,10 @@ const LeftSection = () => {
             <h3>Software Engineer & Data Scientist</h3>
             </div>
             <div>
-                <a><i class="fa-brands fa-github"></i></a>
-                <a><i class="fa-brands fa-linkedin"></i></a>
-                <a><i class="fa-brands fa-x-twitter"></i></a>
-                <a><i class="fa-brands fa-instagram"></i></a>
+                <a href="https://github.com/SarvariHarshitha"><i class="fa-brands fa-github"></i></a>
+                <a href="https://www.linkedin.com/in/sarvari-harshitha-konda/"> <i class="fa-brands fa-linkedin"></i></a>
+                <a href="/"><i class="fa-brands fa-x-twitter"></i></a>
+                <a href="https://www.instagram.com/sarvari_harshitha/"><i class="fa-brands fa-instagram"></i></a>
             </div>
             <div>
             <p>
