@@ -10,8 +10,8 @@
       "title": "Car Rental API",
       "description": "An API for car rental system",
       "technologies": ["JavaScript", "Node.js", "Express", "PostgreSQL"],
-      "link": "car-rental-api-e2xf.onrender.com",
-      "github": "https://car-rental-api-e2xf.onrender.com/"
+      "link": "https://car-rental-api-e2xf.onrender.com/",
+      "github": "https://github.com/SarvariHarshitha/Car-Rental-API"
     },
     {
       "title": "Alzheimers Disease Prediction",
