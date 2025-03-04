@@ -19,6 +19,6 @@ jobs:
           git config --global user.name "SarvariHarshitha"
           git remote set-url origin https://${{ secrets.MY_PERSONAL_TOKEN }}@github.com/SarvariHarshitha/portfolio.git
           npm run deploy
-      - name: Updating domain
+      - name: Updating the domain
         run: echo "Your GitHub Pages site is live at https://SarvariHarshitha.github.io/portfolio/"
 
