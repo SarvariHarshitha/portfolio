@@ -1,4 +1,4 @@
-name: GitHub Actions Demo
+name: Deploying my portfolio
 run-name: ${{ github.actor }} is automating the workflow
 on: [push]
 jobs:
