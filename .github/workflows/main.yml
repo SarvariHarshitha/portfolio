@@ -15,3 +15,5 @@ jobs:
           git config --global user.name "SarvariHarshitha"
           git remote set-url origin https://${{secrets.MY_PERSONAL_TOKEN}}@github.com/SarvariHarshitha/portfolio/.git
           npm run dev
+      - name: Updating domain
+        run: echo "Update Domain"
