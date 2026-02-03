@@ -14,7 +14,7 @@ const ProjectsCard = () => {
             <p key={techIndex}>{tech}</p>
           ))}
           </div>
-          <a href={project.link} target="_blank" rel="noopener noreferrer"><i class="fa-solid fa-globe"></i>Live Demo</a> <a href={project.github} target="_blank" rel="noopener noreferrer"><i class="fa-brands fa-github"></i>GitHub Repo</a>
+          <a href={project.link} target="_blank" rel="noopener noreferrer"><i className="fa-solid fa-globe"></i>Live Demo</a> <a href={project.github} target="_blank" rel="noopener noreferrer"><i className="fa-brands fa-github"></i>GitHub Repo</a>
           
         </div>
       ))}
