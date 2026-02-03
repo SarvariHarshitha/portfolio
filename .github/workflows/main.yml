@@ -1,6 +1,6 @@
 name: Deploying my portfolio
 run-name: ${{ github.actor }} is automating the workflow
-on: [push]
+on: [push, workflow_dispatch]
 jobs:
   build:
     runs-on: ubuntu-latest
